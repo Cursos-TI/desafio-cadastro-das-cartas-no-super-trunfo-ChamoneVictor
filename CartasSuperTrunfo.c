@@ -118,7 +118,7 @@ int main()
     printf("Cidade 2: ");
     scanf("%d", &c2Index);
 
-    // Ajusta os índices para 0-based
+    // Ajusta os índices 
     c1Index--;
     c2Index--;
 
