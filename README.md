@@ -44,7 +44,7 @@ No nível Aventureiro, você expandirá o sistema para incluir propriedades calc
   - **Densidade Populacional:** População dividida pela área da cidade.
   - **PIB per Capita:** PIB total dividido pela população.
 
-### ⚙️ Funcionalidades do Sistema:
+### ⚙️ Funcionalidades do Sist ema:
 - O sistema agora calculará automaticamente a Densidade Populacional e o PIB per Capita com base nos dados inseridos.
 - Essas novas propriedades serão adicionadas às informações exibidas para cada cidade.
 
